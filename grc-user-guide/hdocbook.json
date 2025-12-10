@@ -1,0 +1,29 @@
+{
+  "docId": "grc-user-guide",
+  "title": "GRC User Guide",
+  "description": "A user guide for the GRC app",
+  "publicSource": "https://github.com/Hornbill-Docs/grc-user-guide",
+  "productFamily": "hdocs",
+  "version": "0.0.0",
+  "audience": [
+    "public"
+  ],
+  "languages": [
+    "en"
+  ],
+  "navigation": {
+    "items": [
+      {
+        "text": "Introduction",
+        "expand": true,
+        "items": [
+          {
+            "text": "Welcome",
+            "link": "grc-user-guide/index"
+          }
+        ]
+      }
+    ]
+  },
+  "tags": []
+}
