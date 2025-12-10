@@ -1,52 +1,79 @@
 ---
-url: https://wiki.hornbill.com/index.php?title=Procedures
+url: https://wiki.hornbill.com/index.php?title=Controls
 ---
 
-# GRC Procedures
-Procedures allow you to define areas such as responsibilities, reporting, applicable time frames, and more, while cross-referencing them with Policy Statements. 
+# GRC Controls
 
-## Procedures
+## Introduction
 
-* **Procedure**
-
-Name of the procedure
+## Creating a Control
 
 * **Type**
 
-Select an option that describes the type of procedure. Default options include Corporate Guidance, Technical Instructions, and User Guide. (This list can be modified by a user with the GRC Administrator Role under GRC Simple Lists)
-
-* **Summary**
-
-A description of the procedure
-
-* **Status**
-
-The status of this Procedure. Default options include Archived, Authorized, Awaiting Authorization, Preparing, Re-work, Ready For Review, Rejected, Review Complete, and Under Review. (This list can be modified by a user with the GRC Administrator Role under GRC Simple Lists)
+Select an option that describes the type of control. Default options include Corrective, Detective, Directive, and Preventative. (This list can be modified by a user with the GRC Administrator Role under GRC Simple Lists)
 
 * **Life Cycle**
 
-This option is only available at the time of creation. From here you can select a Life Cycle workflow that will provide automation for different aspects of the life cycle of the procedure.
+This option is only available at the time of creation. From here you can select a Life Cycle workflow that will provide automation for different aspects of the life cycle of the control.
 
 * **Owner**
 
 The owner of the procedures. This will default to the person that created the procedure
 
-* **Controls**
+### Control Source
 
-Select _Auto Add Control_ to automatically create a linked control to this procedure. Controls can be manually added later and linked to a procedure.
+* **Source Type**
 
-### Policy Document Management
+Select the Source Type which includes the following options: Authority Document Control, Procedure, Policy Statement, Policy, Asset, Document Manager - Document, Service Manager - Asset, Service Manager - Request, and External / Other
 
-* **Manage In**
+* **Authority Document**
 
-* **_Maintain Document Here_**
+This option is only available when the Source Type is set to Authority Document Control. Once an Authority Document is selected, the associated Source Items will be available to select from.
 
-Once the Procedure is created an editor is provided to write and maintain the Procedure Document within the procedure record.
+* **Source Item**
 
-* **_Maintain Document in Document Manager_**
+If one of Authority Document Control, Procedure, Policy Statement, Policy, Asset is selected you will have access to these items that have been created within the GRC app. Document Manager and Service Manager are Hornbill apps where you can provide reference to items within these apps. External/Other will provide a field for an external reference and summary.
 
-This option will require Hornbill Document Manager to be installed. A document will first need to be created in Document Manager and then linked from the Procedure record
+### Reason For Selection / Implementation
 
-* **_Maintain Document with External Reference_**
+The following option allows you to flag a control with these preset values for reporting and categorization
 
-A field is provided where a URL to an external document can be specified.
+* **Business Reason**
+
+Select Yes or No
+
+* **Contractual**
+
+Select Yes or No
+
+* **Result of Risk Assessment**
+
+Select Yes or No
+
+* **Exempt**
+
+Select Yes or No
+
+### Implementation
+
+* **Complaint**
+
+Select Yes or No. This will allow you to configured Views of the Controls list based on this value.
+
+* **Implemenation details**
+
+Free text field to provide details of how this control is being implemented
+
+## Linked Policy Statements
+
+## Linked Risks
+
+## Evidence
+
+## Audit Outcomes
+
+## Tasks and Reviews
+
+## Attachments
+
+## Life Cycle History
