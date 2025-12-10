@@ -4,7 +4,7 @@
   "description": "A user guide for the GRC app",
   "publicSource": "https://github.com/Hornbill-Docs/grc-user-guide",
   "productFamily": "hdocs",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "audience": [
     "public"
   ],
@@ -15,11 +15,55 @@
     "items": [
       {
         "text": "Introduction",
+        "link": "grc-user-guide/index"
+      },
+      {
+        "text": "Governence Management",
         "expand": true,
         "items": [
           {
-            "text": "Welcome",
-            "link": "grc-user-guide/index"
+            "text": "Policies",
+            "link": "grc-user-guide/governance/policies"
+          },
+          {
+            "text": "Policy Statements",
+            "link": "grc-user-guide/governance/policy-statements"
+          },
+          {
+            "text": "Procedures",
+            "link": "grc-user-guide/governance/procedures"
+          }
+        ]
+      },
+      {
+        "text": "Risk Management",
+        "expand": true,
+        "items": [
+          {
+            "text": "Operational Risk Registers",
+            "link": "grc-user-guide/risks/operational-risk-registers"
+          },
+          {
+            "text": "Risks",
+            "link": "grc-user-guide/risks/risk"
+          },
+          {
+            "text": "Risk Events",
+            "link": "grc-user-guide/risks/risk-events"
+          }
+        ]
+      },
+      {
+        "text": "Compliance Management",
+        "expand": true,
+        "items": [
+          {
+            "text": "Audit Scheduling",
+            "link": "grc-user-guide/compliance/audit-scheduling"
+          },
+          {
+            "text": "Audit Registers",
+            "link": "grc-user-guide/compliance/audit-registers"
           }
         ]
       }
