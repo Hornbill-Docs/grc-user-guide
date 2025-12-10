@@ -4,7 +4,7 @@
   "description": "A user guide for the GRC app",
   "publicSource": "https://github.com/Hornbill-Docs/grc-user-guide",
   "productFamily": "hdocs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "audience": [
     "public"
   ],
@@ -32,6 +32,10 @@
           {
             "text": "Procedures",
             "link": "grc-user-guide/governance/procedures"
+          },
+          {
+            "text": "Controls",
+            "link": "grc-user-guide/governance/controls"
           }
         ]
       },
