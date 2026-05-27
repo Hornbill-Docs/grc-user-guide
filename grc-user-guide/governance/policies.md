@@ -3,7 +3,7 @@ url: https://wiki.hornbill.com/index.php?title=Policies
 ---
 
 # GRC Policies
-Policies are generally established by a board of directors of an organization to set boundaries under which the organization should operate to to keep the company on track and operating efficiently. 
+Policies are generally established by a board of directors of an organization to set boundaries under which the organization should operate to keep the company on track and operating efficiently. 
 
 ## Creating a Policy
 
@@ -60,7 +60,7 @@ A field is provided where a URL to an external document can be specified.
 
 ### Activity
 
-The Activity Stream is provides to allow discussions to take place about the policy. Users are able post notes, comments, discussions, and mention other users.
+The Activity Stream is provided to allow discussions to take place about the policy. Users are able to post notes, comments, discussions, and mention other users.
 
 ### Details
 
@@ -80,7 +80,7 @@ This option is only visible if you have chosen to manage the Policy Document wit
 
 ### Risks
 
-This are the list of Risks that are associated to this policy.
+These are the risks that are associated with this policy.
 
 ### Statements
 

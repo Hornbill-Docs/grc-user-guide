@@ -2,11 +2,11 @@
 url: https://wiki.hornbill.com/index.php?title=GRC
 ---
 # GRC (Governance, Risk, and Compliance)
-The GRC, or Governance, Risk and Compliance app consists of three key areas that include Governance Management, Risk Management, and Compliance Management. Each of these areas are designed in a way that they can used in isolation from each other, but also seamlessly integrate to provide a consolidated view and approach to managing where you stand with risk and compliance.
+The GRC, or Governance, Risk and Compliance app consists of three key areas that include Governance Management, Risk Management, and Compliance Management. Each of these areas are designed in a way that they can be used in isolation from each other, but also seamlessly integrate to provide a consolidated view and approach to managing where you stand with risk and compliance.
 
 ## What's in GRC
 
-The GRC Control Panel provides access and visibility of the the GRC app. This can be accessed from the Hornbill User Client from the left hand application menu. Included in this view are
+The GRC Control Panel provides access and visibility of the GRC app. This can be accessed from the Hornbill User Client from the left hand application menu. Included in this view are
 
 * **GRC Dashboard**
 

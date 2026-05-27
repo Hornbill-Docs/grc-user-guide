@@ -5,7 +5,7 @@ url: https://wiki.hornbill.com/index.php?title=Policy_Statements
 # GRC Policy Statements
 Policy Statements are a collection of plans and intentions that support a Policy. For example if there was a Password Policy, a Policy Statement might be created for Active Directory minimum password length or password complexity. This list contains all policy statements for all policies. Advanced filtering allows you to display related statements based on a variety of fields.
 
-## Create a New Policy Statements
+## Create a New Policy Statement
 
 * **Policy**
 

@@ -13,7 +13,7 @@ Provide a name of your Risk Register
 
 * **Summary**
 
-Rrovide a summary of what this Risk Register will be used for.
+Provide a summary of what this Risk Register will be used for.
 
 * **Owner**
 

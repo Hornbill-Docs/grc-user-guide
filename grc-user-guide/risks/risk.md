@@ -71,7 +71,7 @@ Create an Event that is related to this risk
 
 Risks that may cause disruption or impact to suppliers that provide services to you
 
-* **Down Steam Risks**
+* **Downstream Risks**
 
 Risks that may cause disruption or impact users or service customers
 

@@ -56,11 +56,11 @@ Select Yes or No
 
 ### Implementation
 
-* **Complaint**
+* **Compliant**
 
-Select Yes or No. This will allow you to configured Views of the Controls list based on this value.
+Select Yes or No. This will allow you to configure Views of the Controls list based on this value.
 
-* **Implemenation details**
+* **Implementation details**
 
 Free text field to provide details of how this control is being implemented
 
